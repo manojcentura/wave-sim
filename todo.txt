@@ -1,0 +1,5 @@
+local parameter maps
+
+c	speed of wave
+d	system damping
+e	end condition - laplace differentiation weight
